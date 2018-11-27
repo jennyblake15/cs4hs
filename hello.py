@@ -1,0 +1,7 @@
+print("Dear God,")
+print("")
+print("This is going just so slow!")
+print("")
+print("Sincerely, Jenny")
+print("")
+print("PS, I'm learning GIT")
